@@ -36,3 +36,94 @@
     transform: rotate(360deg);
   }
 }
+
+/* login page css */
+
+.login-bg {
+  width: 565px;
+  height: 954px;
+  position: fixed;
+
+}
+
+.next {
+  width: 565px;
+  height: 251px;
+  flex-grow: 0;
+  margin: 0 0 87px;
+  position: fixed;
+}
+
+.hub {
+  width: 565px;
+  height: 251px;
+  flex-grow: 0;
+  margin: 170px 0 120px;
+  position: fixed;
+}
+
+.network {
+  width: 565px;
+  height: 203px;
+  flex-grow: 0;
+  margin: 87px 0 0;
+  mix-blend-mode: luminosity;
+  -webkit-backdrop-filter: blur(4px);
+  backdrop-filter: blur(4px);
+  position: fixed;
+}
+
+.login-bar {
+  width: 494px;
+  height: 61px;
+  flex-grow: 0;
+  margin: 515px 35px 29px 36px;
+  padding: 16px 433px 16px 24px;
+  border-radius: 40px;
+  background-color: rgba(242, 242, 242, 0.87);
+  position: fixed;
+}
+
+.signup-bar {
+  width: 494px;
+  height: 61px;
+  flex-grow: 0;
+  margin: 29px 35px 49px 36px;
+  padding: 8px 436.6px 10.6px 23px;
+  border-radius: 40px;
+  background-color: rgba(242, 242, 242, 0.87);
+  position: fixed;
+}
+
+.signup-bar {
+  width: 494px;
+  height: 61px;
+  flex-grow: 0;
+  margin: 29px 35px 49px 36px;
+  padding: 8px 436.6px 10.6px 23px;
+  border-radius: 40px;
+  background-color: rgba(242, 242, 242, 0.87);
+  position: fixed;
+}
+
+.login {
+  width: 246px;
+  height: 61px;
+  margin: 49px 159px 29px 160px;
+  border-radius: 150px;
+  background-color: rgba(242, 242, 242, 0.87);
+  position: fixed;
+}
+
+.signup {
+  width: 246px;
+  height: 61px;
+  margin: 29px 159px 0 160px;
+  border-radius: 150px;
+  background-color: rgba(255, 255, 255, 0.87);
+  position: fixed;
+}
+
+
+
+
